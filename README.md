@@ -1,2 +1,2 @@
 # chromeTaskManager
-#　product by タカミ,石井翔大
+#　product by タカミ,石井大翔
