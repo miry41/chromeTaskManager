@@ -1,0 +1,26 @@
+{
+  "name": "chrometaskmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miry41/chromeTaskManager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miry41/chromeTaskManager/issues"
+  },
+  "homepage": "https://github.com/miry41/chromeTaskManager#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "firebase-admin": "^13.1.0",
+    "google-auth-library": "^9.15.1",
+    "socket.io": "^4.8.1"
+  }
+}
