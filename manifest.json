@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "新しいタブでタスク管理ができるChrome拡張機能",
   "chrome_url_overrides": {
-    "newtab": "index.html"
+    "newtab": "frontend/index.html"
   },
   "permissions": ["storage"]
 }
