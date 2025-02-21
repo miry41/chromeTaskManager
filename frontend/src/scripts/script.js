@@ -97,7 +97,12 @@ document.addEventListener("DOMContentLoaded", () => {
         event.preventDefault();
     }
 
+    // グローバルに関数を公開（HTML内のインラインイベントで使用できるように）
+    window.drop = drop;
+    window.allowDrop = allowDrop;
+
     // ✅ 初回ロード
     initTasks();
     loadTasks();
 });
+
